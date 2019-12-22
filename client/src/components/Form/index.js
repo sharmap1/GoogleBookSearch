@@ -1,11 +1,12 @@
 import React from "react";
+import "./style.css";
 
 function Form({ q, handleInputChange, handleFormSubmit }) {
   return (
     <form>
       <div className="form-group">
         <label htmlFor="Query">
-          <strong>Book</strong>
+          <strong className="sub">Book</strong>
         </label>
         <input
           className="form-control"

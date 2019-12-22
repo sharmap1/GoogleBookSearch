@@ -1,4 +1,5 @@
 .jumbotron {
-    padding: 100px;
-  }
-  
+  padding: 100px;
+  background-image: url(http://www.finebindingbooks.com/FLpics/franklin100A.jpg);
+  color: white;
+}
