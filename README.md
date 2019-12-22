@@ -37,6 +37,13 @@ To run this application locally, use http://localhost:3000 after completing the 
 - Google Books API
 - Bootstrap
 
+## Screenshots
+
+<img src="assets/img/capture 1.jpg" width="250" height="250" > 
+<img src="assets/img/capture-2.jpg" width="250" height="250" > 
+<img src="assets/img/capture-3.jpg" width="250" height="250" > 
+<img src="assets/img/capture-4.jpg" width="250" height="250" >
+
 ## Contributing
 
 - Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
