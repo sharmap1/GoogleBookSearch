@@ -39,10 +39,10 @@ To run this application locally, use http://localhost:3000 after completing the 
 
 ## Screenshots
 
-<img src="./assets/img/capture 1.jpg" width="550" height="450" > 
-<img src="./assets/img/capture-2.jpg" width="250" height="250" > 
-<img src="./assets/img/capture-3.jpg" width="250" height="250" > 
-<img src="./assets/img/capture-4.jpg" width="250" height="250" >
+<img src="assets/img/Capture-1.JPG" width="650" height="450" > 
+<img src="assets/img/Capture-2.JPG" width="650" height="450" > s
+<img src="assets/img/capture-3.jpg" width="650" height="450" > 
+<img src="assets/img/capture-4.jpg" width="650" height="450" >
 
 ## Contributing
 
