@@ -32,7 +32,6 @@ class Nav extends Component {
 
   render() {
     return (
-      <container>
         <nav className="navbar navbar-expand-lg navbar-dark bg-dark mb-2">
           <Link className="navbar-brand" to="/">
             Google Books
@@ -82,7 +81,6 @@ class Nav extends Component {
             </ul>
           </div>
         </nav>
-      </container>
     );
   }
 }
