@@ -40,7 +40,7 @@ To run this application locally, use http://localhost:3000 after completing the 
 ## Screenshots
 <img src="assets/img/Capture -1.JPG"  > 
 <img src="assets/img/Capture-2.JPG"  > 
-<img src="assets/img/capture-3.jpg"  > 
+<img src="assets/img/Capture-3.JPG"  > 
 <img src="assets/img/capture-4.jpg"  >
 
 ## Contributing
